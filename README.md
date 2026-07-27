@@ -1,4 +1,4 @@
-# Análisis de Kepler-8b y Población de Exoplanetas 🪐
+# Análisis de Kepler-8b y Población de Exoplanetas
 
 Este proyecto realiza un estudio observacional y estadístico sobre exoplanetas. Se divide en dos fases: la detección directa del tránsito del exoplaneta **Kepler-8b** mediante el procesamiento de curvas de luz de la misión Kepler, y un análisis demográfico de la población general de exoplanetas confirmados.
 
