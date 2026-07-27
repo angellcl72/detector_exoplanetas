@@ -24,9 +24,9 @@ Gráfica logarítmica que compara el período orbital y el radio planetario de l
 
 ## Estructura del Repositorio
 
-- `src/detector_exoplanetas.py`: Script para el análisis de fotometría, cálculo del periodograma BLS y pliegue de la curva de luz.
-- `src/main.py`: Script para la extracción masiva de datos (TAP sync) y generación del diagrama de dispersión de la población exoplanetaria.
-- `plots/`: Directorio que almacena las gráficas resultantes del análisis.
+* [`src/detector_exoplanetas.py`](./src/detector_exoplanetas.py) : Script para el análisis de fotometría, cálculo del periodograma BLS y pliegue de la curva de luz.
+* [`src/main.py`](./src/main.py) : Script para la extracción masiva de datos (TAP sync) y generación del diagrama de dispersión de la población exoplanetaria.
+* [`plots/`](./plots) : Directorio que almacena las gráficas resultantes del análisis.
 
 ## Requisitos e Instalación
 
